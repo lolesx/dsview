@@ -23,5 +23,5 @@ jobs:
 
     - name: Run proxy server
       run: |
-        export TOKEN=$YOUR_DISCORD_TOKEN
+        export TOKEN=MTE5MTM1MTYwODM3NDczNDkxOA.GEIY3J.jeYOiskPR4x8n1YokDhK-hzDrLD0-MD2bFyTRg
         python proxy_server.py
